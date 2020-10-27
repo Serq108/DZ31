@@ -10,7 +10,7 @@ chardet==3.0.4
 Click==7.0
 coverage==4.5.4
 croniter==0.3.30
-cryptography==2.7
+cryptography==3.2
 decorator==4.4.0
 Django==2.2.5
 django-cors-headers==3.0.2
